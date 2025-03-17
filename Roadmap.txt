@@ -8,7 +8,7 @@ LLM chosen: Ollama
 tasks:
 	- A ) Build the database:
 		Methodology: First find images (graphs) and then choose a question about it so we already have a validation (target). We will compare the graph to what the model return as an output.
-		- Choose a number of questions: 99 (so each one of us has to find 33 images and 33 associated questions). One image can be the answer of several question (If the graph contains several curve).
+		- Choose a number of questions: 6 (so each one of us has to find 2 images and 2 associated questions). One image can be the answer of several question (If the graph contains several curve).
 		- What type of images ? 
 			- line chart 
 			- barchart 
