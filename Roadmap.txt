@@ -17,9 +17,8 @@ tasks:
 		- Write the description of the graph
 
 	- Make functions for text cleaning 
-	- Defining a RAG interface 
-	- Give the access to the UK parliament data:
-		- Build tool to retrive data
+	- Defining a RAG interface:
+		- Give the access to the UK parliament data:
 	- (With an agent) Give access to graphics tools 
 		- Custom class:
 			- retireve informations, put them into a table
