@@ -4,7 +4,7 @@ agent specialty: Infographics
 	- Analyze of the graph
 	(- Representing relationships between concepts visually)
 
-LLM chosen: Ollama
+LLM chosen: DeepSeek-r1
 tasks:
 	- A ) Build the database:
 		Methodology: First find images (graphs) and then choose a question about it so we already have a validation (target). We will compare the graph to what the model return as an output.
