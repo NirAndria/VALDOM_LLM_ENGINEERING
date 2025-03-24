@@ -1,0 +1,12 @@
+Available from 	https://commonslibrary.parliament.uk/research-briefings/sn04401									
+Title	Attendance of the Prime Minister at Prime Minister’s Questions since 1979									
+Description	Prime Minister's Questions attended by Prime Ministers since 1979, the number at which the Prime Minister was not present, the reason for non-attendance, the name and position of the Minister deputising and of the shadow Cabinet Member or Opposition spokesperson. 									
+Authors	Steve Whittall, Sarah Priddy									
+Last updated	12/3/2025									
+Citation	SN04401									
+Publisher	House of Commons Library									
+Publisher URL	https://commonslibrary.parliament.uk									
+Licence	Open Parliament Licence									
+Licence URL	https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/									
+Contact	papers@parliament.uk		
+source: https://docs.google.com/spreadsheets/d/1doYiF0LbiReZJKfc3m0MpInNJdcjTcHhFPLAYYBxCsE/edit?gid=2121006291#gid=2121006291							
