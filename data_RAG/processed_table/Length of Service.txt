@@ -1,30 +1,18 @@
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | : Name of MP:  | :  | : Days in  service | :  | : Years in service | :  | : First elected | :  | : Party in 2017 GE | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info : PT30H07M29S | : Peter Bottomley | :  | : 16240.0 | :  | : 44.4626967830253 | :  | : 1975-06-26 | :  | : CON | :  | :  | :  | 
-row info :  | : Margaret Beckett | :  | : 15001.0 | :  | : 41.0704996577686 | :  | : 1974-10-10 | :  | : LAB | :  | :  | :  | 
-row info :  | : Barry Sheerman | :  | : 14833.0 | :  | : 40.6105407255305 | :  | : 1979-05-03 | :  | : LAB | :  | :  | :  | 
-row info :  | : Harriet Harman | :  | : 13559.0 | :  | : 37.1225188227242 | :  | : 1982-10-28 | :  | : LAB | :  | :  | :  | 
-row info :  | : Nicholas Brown | :  | : 13335.0 | :  | : 36.5092402464066 | :  | : 1983-06-09 | :  | : LAB | :  | :  | :  | 
-row info :  | : Jeremy Corbyn | :  | : 13335.0 | :  | : 36.5092402464066 | :  | : 1983-06-09 | :  | : LAB | :  | :  | :  | 
-row info :  | : Roger Gale | :  | : 13335.0 | :  | : 36.5092402464066 | :  | : 1983-06-09 | :  | : CON | :  | :  | :  | 
-row info :  | : Edward Leigh | :  | : 13335.0 | :  | : 36.5092402464066 | :  | : 1983-06-09 | :  | : CON | :  | :  | :  | 
-row info :  | : William Cash | :  | : 13006.0 | :  | : 35.6084873374401 | :  | : 1984-05-03 | :  | : CON | :  | :  | :  | 
-row info :  | : George Howarth | :  | : 12082.0 | :  | : 33.07871321013 | :  | : 1986-11-13 | :  | : LAB | :  | :  | :  | 
-row info :  | : Diane Abbott | :  | : 11872.0 | :  | : 32.5037645448323 | :  | : 1987-06-11 | :  | : LAB | :  | :  | :  | 
-row info :  | : John Redwood | :  | : 11872.0 | :  | : 32.5037645448323 | :  | : 1987-06-11 | :  | : CON | :  | :  | :  | 
-row info :  | : David Davis | :  | : 11850.0 | :  | : 32.4435318275154 | :  | : 1987-06-11 | :  | : CON | :  | :  | :  | 
-row info :  | : Greg Knight | :  | : 11837.0 | :  | : 32.4079397672827 | :  | : 1983-06-09 | :  | : CON | :  | :  | :  | 
-row info :  | : Tony Lloyd | :  | : 11645.0 | :  | : 31.8822724161533 | :  | : 1983-06-09 | :  | : LAB | :  | :  | :  | 
-row info :  | : Christopher Chope | :  | : 11487.0 | :  | : 31.4496919917864 | :  | : 1983-06-09 | :  | : CON | :  | :  | :  | 
-row info :  | : David Evennett | :  | : 10409.0 | :  | : 28.498288843258 | :  | : 1983-06-09 | :  | : CON | :  | :  | :  | 
-row info :  | : Andrew Mitchell | :  | : 10374.0 | :  | : 28.4024640657084 | :  | : 1987-06-11 | :  | : CON | :  | :  | :  | 
-row info :  | : John Spellar | :  | : 10332.0 | :  | : 28.2874743326489 | :  | : 1982-10-28 | :  | : LAB | :  | :  | :  | 
-row info :  | : Paul Beresford | :  | : 10135.0 | :  | : 27.7481177275838 | :  | : 1992-04-09 | :  | : LAB | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
-row info :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | :  | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Barry Sheerman | Days in  service | 16240.0 | 15001.0: 14833.0 | Years in service | 44.4626967830253 | 41.0704996577686: 40.6105407255305 | First elected | 1975-06-26 | 1974-10-10: 1979-05-03 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Harriet Harman | Days in  service | 16240.0 | 15001.0: 13559.0 | Years in service | 44.4626967830253 | 41.0704996577686: 37.1225188227242 | First elected | 1975-06-26 | 1974-10-10: 1982-10-28 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Nicholas Brown | Days in  service | 16240.0 | 15001.0: 13335.0 | Years in service | 44.4626967830253 | 41.0704996577686: 36.5092402464066 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Jeremy Corbyn | Days in  service | 16240.0 | 15001.0: 13335.0 | Years in service | 44.4626967830253 | 41.0704996577686: 36.5092402464066 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Roger Gale | Days in  service | 16240.0 | 15001.0: 13335.0 | Years in service | 44.4626967830253 | 41.0704996577686: 36.5092402464066 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Edward Leigh | Days in  service | 16240.0 | 15001.0: 13335.0 | Years in service | 44.4626967830253 | 41.0704996577686: 36.5092402464066 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: William Cash | Days in  service | 16240.0 | 15001.0: 13006.0 | Years in service | 44.4626967830253 | 41.0704996577686: 35.6084873374401 | First elected | 1975-06-26 | 1974-10-10: 1984-05-03 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: George Howarth | Days in  service | 16240.0 | 15001.0: 12082.0 | Years in service | 44.4626967830253 | 41.0704996577686: 33.07871321013 | First elected | 1975-06-26 | 1974-10-10: 1986-11-13 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Diane Abbott | Days in  service | 16240.0 | 15001.0: 11872.0 | Years in service | 44.4626967830253 | 41.0704996577686: 32.5037645448323 | First elected | 1975-06-26 | 1974-10-10: 1987-06-11 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: John Redwood | Days in  service | 16240.0 | 15001.0: 11872.0 | Years in service | 44.4626967830253 | 41.0704996577686: 32.5037645448323 | First elected | 1975-06-26 | 1974-10-10: 1987-06-11 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: David Davis | Days in  service | 16240.0 | 15001.0: 11850.0 | Years in service | 44.4626967830253 | 41.0704996577686: 32.4435318275154 | First elected | 1975-06-26 | 1974-10-10: 1987-06-11 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Greg Knight | Days in  service | 16240.0 | 15001.0: 11837.0 | Years in service | 44.4626967830253 | 41.0704996577686: 32.4079397672827 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Tony Lloyd | Days in  service | 16240.0 | 15001.0: 11645.0 | Years in service | 44.4626967830253 | 41.0704996577686: 31.8822724161533 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Christopher Chope | Days in  service | 16240.0 | 15001.0: 11487.0 | Years in service | 44.4626967830253 | 41.0704996577686: 31.4496919917864 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: David Evennett | Days in  service | 16240.0 | 15001.0: 10409.0 | Years in service | 44.4626967830253 | 41.0704996577686: 28.498288843258 | First elected | 1975-06-26 | 1974-10-10: 1983-06-09 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Andrew Mitchell | Days in  service | 16240.0 | 15001.0: 10374.0 | Years in service | 44.4626967830253 | 41.0704996577686: 28.4024640657084 | First elected | 1975-06-26 | 1974-10-10: 1987-06-11 | Party in 2017 GE | CON | LAB: CON | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: John Spellar | Days in  service | 16240.0 | 15001.0: 10332.0 | Years in service | 44.4626967830253 | 41.0704996577686: 28.2874743326489 | First elected | 1975-06-26 | 1974-10-10: 1982-10-28 | Party in 2017 GE | CON | LAB: LAB | 
+row info :  | Name of MP: | Peter Bottomley | Margaret Beckett: Paul Beresford | Days in  service | 16240.0 | 15001.0: 10135.0 | Years in service | 44.4626967830253 | 41.0704996577686: 27.7481177275838 | First elected | 1975-06-26 | 1974-10-10: 1992-04-09 | Party in 2017 GE | CON | LAB: LAB | 
